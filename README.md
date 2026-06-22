@@ -7,15 +7,6 @@ This project is an end-to-end **Business Analytics** solution developed using **
 The project follows a complete analytics workflow—from raw data preprocessing to business intelligence reporting—demonstrating practical Business Analyst and Data Analyst skills.
 
 ---
-## DASHBOARDS
-
-![Executive Overview](Executive_Overview.png)
-
-![Sales & Product Analysis](Sales_And_Product_Analysis.png)
-
-![Customer Insights](Customer_Insights.png)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -157,14 +148,17 @@ Built **3 interactive dashboards** using DAX, Power Query, and Power BI.
 # 📸 Dashboard Preview
 
 ### Executive Overview
+![Executive Overview](executive_overview.png)
 
 Provides high-level KPIs, city-wise profit, monthly trends, sales channel performance, and gender-wise profit analysis.
 
 ### Sales & Product Analysis
+![Sales Analysis](sales_analysis.png)
 
 Analyzes monthly orders, country performance, category-wise sales, store performance, and return summaries.
 
 ### Customer Insights
+![Customer Insights](customers_insight.png)
 
 Examines customer distribution, payment methods, sales channels, gender insights, and return behavior.
 
